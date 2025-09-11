@@ -1,46 +1,41 @@
-## 👋 Hi there, I'm Ahmed Maher  
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# 👋 Hi, I'm Ahmed Maher  
 
-🎯 **Backend Developer** specialized in building secure and scalable systems.  
-💡 Passionate about clean code, problem solving, and backend architecture.  
-
----
-
-## 🌐 Social Accounts
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmed%20Maher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/ahmed-maher-642225345)](http://www.linkedin.com/in/ahmed-maher-642225345)  
-[![Youtube Badge](https://img.shields.io/badge/-Ahmed_dev11-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@Ahmed_dev11)](https://www.youtube.com/@Ahmed_dev11)  
-[![Gmail Badge](https://img.shields.io/badge/-ahmedmaher.dev3@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedmaher.dev3@gmail.com)](mailto:ahmedmaher.dev3@gmail.com)  
+🚀 **Backend Developer** | Passionate about building secure, scalable, and high-performance systems.  
+💡 Skilled in server-side development, APIs, authentication, and cloud services.  
 
 ---
 
-## ⚡ Technologies & Tools
+## 🌐 Connect with me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ahmed-maher-642225345)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Ahmed_dev11)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmedmaher.dev3@gmail.com)
 
-### 💻 Languages
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages & Frameworks**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-
-### ⚙️ Backend Development
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=api)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-### 🛠️ Tools & Platforms
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### 🔒 Security & Auth
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=json-web-tokens)
-
-### 📚 Other Skills
+**Other Skills**  
+📌 REST API Development  
+📌 JSON Web Tokens (JWT) Authentication  
 📌 Data Structures & Algorithms  
 📌 Server Management  
 
