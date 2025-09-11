@@ -24,39 +24,23 @@
 
 ---
 
-## 🛠️ skills & technologies  
+### 🛠️ Skills & Technologies  
 
-### 💻 languages & frameworks  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![express.js](https://img.shields.io/badge/Express.js-0075C9?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ databases  
-![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Databases**  
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ tools & platforms  
-![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools & Platforms**  
+![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)  
+![gitlab](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
+![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![aws](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### 🔒 other skills  
-- rest api development  
-- json web tokens (jwt) authentication  
-- data structures & algorithms  
-- server management  
-
----
-
-## 📊 github stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMaher&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="Ahmed's GitHub Stats"/>
-</p>
