@@ -27,12 +27,14 @@
 ## 🛠️ skills & technologies  
 
 ### 💻 languages & frameworks  
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![html5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ### 🗄️ databases  
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
