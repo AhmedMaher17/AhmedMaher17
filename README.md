@@ -1,7 +1,7 @@
 # 👋 >   Ahmed Maher   <
 
 🚀 **Backend developer** | Specialized in designing and developing secure, scalable, and high-performance applications.  
-💡 Passionate about solving complex problems, clean architecture, and modern backend technologies.  
+💡 Passionate about solving complex problems, and modern backend technologies.  
 
 ---
 
